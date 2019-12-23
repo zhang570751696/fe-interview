@@ -1,4 +1,4 @@
-# 周汇总 2019.09.22
+# 周汇总 2019.12.22
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
-- [你有使用过figure标签吗？说说你对它的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1229)
-- [你有用过bdo标签吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1225)
-- [HTML5的video在有的移动端设备无法自动播放？怎么解决？](https://github.com/haizlin/fe-interview/issues/1221)
-- [HTML5有哪些存储类型？它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1217)
-- [不用h标签、css和js怎么实现多个字的字体连续放大的效果？](https://github.com/haizlin/fe-interview/issues/1213)
-- [使用标签怎样对一个单词标志缩写呢？](https://github.com/haizlin/fe-interview/issues/1209)
+- [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
+- [在开发canvas时，你知道什么是非零环绕原则(nonzZero rule) 吗？](https://github.com/haizlin/fe-interview/issues/1673)
+- [canvas有哪些可以提升性能的优化方法？](https://github.com/haizlin/fe-interview/issues/1669)
+- [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
+- [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
+- [如何能防止网页禁止被iframe嵌入呢？ ](https://github.com/haizlin/fe-interview/issues/1657)
+- [HTML5图像相关的标签有哪些？](https://github.com/haizlin/fe-interview/issues/1653)
 
 ## css
-- [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)
-- [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
-- [外边距重叠是什么？重叠的结果是什么？怎么防止外边距重叠？](https://github.com/haizlin/fe-interview/issues/1226)
-- [css中的border:none和border:0px有什么区别？](https://github.com/haizlin/fe-interview/issues/1222)
-- [如何写高效的CSS？](https://github.com/haizlin/fe-interview/issues/1218)
-- [如何做图片预览，如何放大一个图片？](https://github.com/haizlin/fe-interview/issues/1214)
-- [举例说明在css3中怎么实现背景裁剪？](https://github.com/haizlin/fe-interview/issues/1210)
+- [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
+- [头部设置meta也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
+- [在rem下如何实现1像素？](https://github.com/haizlin/fe-interview/issues/1670)
+- [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
+- [使用rem的优缺点是什么？和使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
+- [当页面采用rem布局时，如何解决用户设置字体大小造成的页面布局错位？](https://github.com/haizlin/fe-interview/issues/1658)
+- [使用rem时应该注意什么？](https://github.com/haizlin/fe-interview/issues/1654)
 
 ## js
-- [在js中attribute和property的区别是什么？](https://github.com/haizlin/fe-interview/issues/1235)
-- [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
-- [举例说明js拖拽用到的事件有哪些？](https://github.com/haizlin/fe-interview/issues/1227)
-- [用原生JS封装插件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1223)
-- [用js模拟实现微信抢红包的算法，并说明你的思路](https://github.com/haizlin/fe-interview/issues/1219)
-- [如何实现锁定网页、密码解锁的效果？说说你的方法和步骤是什么？](https://github.com/haizlin/fe-interview/issues/1215)
-- [你知道1和Number(1)的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1211)
+- [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
+- [从一个无序的整数数组中，找出最小和最大数之间缺失的数字，要求最小的时间复杂度](https://github.com/haizlin/fe-interview/issues/1675)
+- [写一个方法实现“基数排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1671)
+- [写一个方法实现“桶排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1667)
+- [写一个方法实现“归并排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1663)
+- [写一个方法实现“插入排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1659)
+- [写一个方法实现“交换排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1655)
 
 ## 软技能
-- [你上家公司有写日报、周报或者月报吗？说说你对写日（周、月）这事的理解](https://github.com/haizlin/fe-interview/issues/1236)
-- [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
-- [说说你们的项目上线流程是怎样的？](https://github.com/haizlin/fe-interview/issues/1228)
-- [如何让你做一个文件无刷新上传的功能，你有哪些方法可以做到？](https://github.com/haizlin/fe-interview/issues/1224)
-- [你有做过扫码枪的开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1220)
-- [请解释下你理解的并行和并发、同步和异步、阻塞和非阻塞之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1216)
-- [你有使用过FTP吗？你知道FTP它的作用是什么吗？](https://github.com/haizlin/fe-interview/issues/1212)
+- [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
+- [举例说明你都会哪些与人沟通的技巧？](https://github.com/haizlin/fe-interview/issues/1676)
+- [如果你是上级领导，你底下有个兄弟工作状态不是很好，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1672)
+- [你是如何管理你的下属的？](https://github.com/haizlin/fe-interview/issues/1668)
+- [跟你聊了这么多，觉得挺投缘的，那你来说说你对我的初步认识吧](https://github.com/haizlin/fe-interview/issues/1664)
+- [说下你对程序员中年危机的理解](https://github.com/haizlin/fe-interview/issues/1660)
+- [有回老家发展的打算吗？](https://github.com/haizlin/fe-interview/issues/1656)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

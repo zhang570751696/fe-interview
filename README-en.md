@@ -35,20 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.23) —— 160 days
-- [html] [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
-- [css] [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
-```html
-<style>
-.red {color:red;}
-.green {color:green;}
-</style>
-
-<div class="red green">第一行：颜色是什么？</div>
-<div class="green red">第二行：颜色是什么？</div>
-```
-- [js] [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
-- [skill] [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
+## Today's Knowledge Points (2019.12.22) —— 250 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
+- [css] [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
+- [js] [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
+- [skill] [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -57,7 +48,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [Skill](category/skill.md)
 
 - Topics(Please look forward to and welcome PR)  
-    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [wxapp](lib/wxapp.md)
+    [ECMAScript 34+](category/ECMAScript.md) | [NodeJs](category/nodejs.md) | [jQuery 22+](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [wxapp](lib/wxapp.md)
 
 - Tools(Please look forward to and welcome PR) 
     [webpack](tools/webpack.md)
@@ -85,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 158 days (2019.09.21)
-    - [html] [你有使用过figure标签吗？说说你对它的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1229)
-    - [css] [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
-    - [js] [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
-    - [skill] [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
+- 249 days (2019.12.21)
+    - [html] [在开发canvas时，你知道什么是非零环绕原则(nonzZero rule) 吗？](https://github.com/haizlin/fe-interview/issues/1673)
+    - [css] [头部设置meta也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
+    - [js] [从一个无序的整数数组中，找出最小和最大数之间缺失的数字，要求最小的时间复杂度](https://github.com/haizlin/fe-interview/issues/1675)
+    - [skill] [举例说明你都会哪些与人沟通的技巧？](https://github.com/haizlin/fe-interview/issues/1676)
 
-- 159 days (2019.09.22)
-    - [html] [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
-    - [css] [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)
-    - [js] [在js中attribute和property的区别是什么？](https://github.com/haizlin/fe-interview/issues/1235)
-    - [skill] [你上家公司有写日报、周报或者月报吗？说说你对写日（周、月）这事的理解](https://github.com/haizlin/fe-interview/issues/1236)
+- 250 days (2019.12.22)
+    - [html] [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
+    - [css] [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
+    - [js] [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
+    - [skill] [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
 
 - **[All](category/history.md)**
 
@@ -124,6 +115,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [Luke.Deng](https://github.com/xiangshuo1992)
 - [xiqi99520](https://github.com/xiqi99520)
 - [LeannaLady](https://github.com/LeannaLady)
+- [cxwht](https://github.com/cxwht)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -153,7 +145,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
 - 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
 - 2019.06.26 — 第71天，star数突破1000，issues数突破500！
-- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感觉HG，欢迎大家关注HG！
+- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感谢HG，欢迎大家关注HG！
 - 2019.06.28 — 第73天，star数突破1300，原因是发布了篇 [vue 248+个知识点（面试题）为你保驾护航](https://juejin.im/post/5d153267e51d4510624f9809)，看来爱学习的朋友还是非常多的！
 - 2019.06.30 — 第75天，《前端面试每日3+1》开源项目上了github的热门榜，总榜排行第6，javascript语言榜排名第1！感谢一路同行的朋友们的努力付出！
 - 2019.06.30 — 第75天，鉴于有不少朋友都想直接要答案，而我的回答始终是没有，答案在你自己脑中！新的口号：始于面试，但不止于面试！提倡每日学习，每天进步！
@@ -170,6 +162,10 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.08.21 — 第127天，star数突破5000，github上搜索“前端面试”，按star排行，成功挺进前5，这是6月25日定的小目标，提前完成，继续坚持吧，不忘初心，利他利己，足矣。
 - 2019.09.13 — 今天是更新的第150天，刚好中秋节，农历十五中秋节，是一种巧合，意味着团团圆圆！祝所有朋友幸福健康！
 - 2019.09.18 — 今天一看关注数增加了不少，才发现又一次上了github热门榜，第三次了，看来爱学习的朋友很多！
+- 2019.10.10 — 第四次登上github热门榜，应该是坚持更新的结果，同时项目被[前端网](http://qianduan.cc)收录！
+- 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
+- 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
+- 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
@@ -179,6 +175,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
 - [jianshu](https://www.jianshu.com/c/1ba24fbe0006)（Daily Synchronized Updates）
 - [segmentfault](https://segmentfault.com/blog/frontend-interview)（Daily Synchronized Updates）
+- [weibo](https://weibo.com/haizlin)（Daily Synchronized Updates）
 - [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
@@ -234,4 +231,4 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://101.201.31.25:10000/?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
